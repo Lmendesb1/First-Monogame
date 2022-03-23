@@ -1,0 +1,75 @@
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.exe
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.deps.json
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.json
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.dev.json
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.pdb
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.AssemblyReference.cache
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.GeneratedMSBuildEditorConfig.editorconfig
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfoInputs.cache
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfo.cs
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.CoreCompileInputs.cache
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.CopyComplete
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.dll
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.pdb
+P:\Escola\SegundoSemestre\Jogos\ProjectJogo\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.genruntimeconfig.cache
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\Content\Super-Mario-Bros-Background-PNG.xnb
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.exe
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.deps.json
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.json
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.dev.json
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.pdb
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.AssemblyReference.cache
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.GeneratedMSBuildEditorConfig.editorconfig
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfoInputs.cache
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfo.cs
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.CoreCompileInputs.cache
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.CopyComplete
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.dll
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.pdb
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.genruntimeconfig.cache
+P:\Escola\SegundoSemestre\Jogos\FirstMonoGame\ProjectJogo\bin\Debug\netcoreapp3.1\Content\Luigi.xnb
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\Content\Luigi.xnb
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\Content\Super-Mario-Bros-Background-PNG.xnb
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\ProjectJogo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\FirstMonoGame-main\ProjectJogo\obj\Debug\netcoreapp3.1\ProjectJogo.genruntimeconfig.cache
